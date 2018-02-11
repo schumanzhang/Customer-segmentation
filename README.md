@@ -2,4 +2,4 @@ A project to demonstrate clustering algorithms and unsupervised learning techniq
 
 Run: 
 
-jupyter notebook customer_segments.ipyng
+jupyter notebook customer_segments.ipynb
